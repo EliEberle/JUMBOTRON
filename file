@@ -1,0 +1,13 @@
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="https://www.bing.com/th?id=OVP.JZqG1QMwivI8yiVnW15DhAHgFo&w=606&h=340&c=7&rs=2&qlt=90&o=6&pid=1.7" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="https://th.bing.com/th/id/OIP.HzVzLdPaTl9UWEugBkVhzQHaEK?w=301&h=180&c=7&r=0&o=5&pid=1.7" class="d-block w-100    " class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="https://th.bing.com/th/id/OIP.OGYVuzT1OVTbpxCGHAD7bgHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7" class="d-block w-100" alt="...">
+          </div>
+        </div>
+      </div>
